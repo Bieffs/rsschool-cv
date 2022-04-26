@@ -1,17 +1,17 @@
-#**Lemesh Stepan**
-
-####*Contacts*
+# **Lemesh Stepan**
+----------------------------
+#### *Contacts*
 * Bieffs123@gmail.com
 * Discord: Bieffz#7717
 
-####*About myself*
+#### *About myself*
 I'm 24 years old and i want to learn Frone-end development
 
-####*Education*
+#### *Education*
 Polesskiy state university
 *banking faculty*
 
-####*Language* 
+#### *Language* 
 * English - A2
 * Russian - native
 
