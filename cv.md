@@ -11,6 +11,12 @@ I'm 24 years old and i want to learn Frone-end development
 Polesskiy state university
 *banking faculty*
 
+#### *Code example*
+```
+function multiply(a, b){
+  a * b
+}
+```
 #### *Language* 
 * English - A2
 * Russian - native
